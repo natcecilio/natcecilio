@@ -1,4 +1,4 @@
-# Hey 🎃
+# Hey 🔮
 
 My name is Nathalia Cecílio, I'm from Brazil
 I'm a computer Engineer, that has been working as a front-end developer.
